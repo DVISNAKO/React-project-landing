@@ -8,7 +8,7 @@ import {
   MDBCardBody,
   MDBInput,
   MDBCheckbox,
-} from "mdb-react-ui-kit";
+} from 'mdb-react-ui-kit';;
 
 const Modal = ({ active, setActive, children }) => {
   return (

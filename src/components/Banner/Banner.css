@@ -1,0 +1,25 @@
+.banner__wrapper {
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+}
+
+.banner__img {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 90%;
+    width: 100%;
+    background-color:rgb(133, 199, 199);
+}
+
+.change__slide{
+    margin: 5px;
+    border: none;
+    background-color: rgb(78, 199, 158);
+    border-radius:10px;
+    padding: 10px;
+}
+
